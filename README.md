@@ -1,7 +1,7 @@
 # Hey! I'm Akshaj 👋
 
 ## 🎓 About Me
-- 🖥️ First-year Computer Science major at Georgia Tech 🐝 (Go Jackets!)
+- 🖥️ Computer Science major at Georgia Tech 🐝 (Go Jackets!)
 - 💡 Passionate about software engineering, data science, and machine learning
 - 🔍 Always learning and exploring new technologies
 
